@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="estilosFactura.css"?>
+
+<Factura xmlns="http://www.w3.org/1999/xhtml">
+    <h1>Factura</h1>
+    <img src="https://cdn.pixabay.com/photo/2017/05/16/08/35/coffee-cup-2317201_960_720.jpg" alt="cafe" width="300" height="200"/>
+    <razonSocial>PROMOTORA ECUATORIANA DE CAFE DE COLOMBIA S.A. PROCAFECOL ECUADOR</razonSocial>
+    <nombreComercial>JUAN VALDEZ</nombreComercial>
+    <ruc>1792141486001</ruc>
+    <fechaEmision>26/05/2018</fechaEmision>
+    <infoFactura>
+        <nombre class="nom">BYRON</nombre>
+        <apellido id="apell">LOARTE</apellido>
+        <telefono>0995644186</telefono>
+        <direccion>Quitumbe</direccion>
+    </infoFactura>
+    
+    <detalleConsumo>
+        <nombre class="nomD">Cafe</nombre>
+        <cantidad>2</cantidad>
+        <precio>5</precio>
+    </detalleConsumo>
+    
+</Factura>

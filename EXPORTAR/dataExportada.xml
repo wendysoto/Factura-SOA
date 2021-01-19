@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+	<usuarios>
+		<registro>
+			<id>1</id>
+			<nombre>Wendy</nombre>
+			<ciudad>Quito</ciudad>
+		</registro>
+		<registro>
+			<id>2</id>
+			<nombre>David</nombre>
+			<ciudad>Cuenca</ciudad>
+		</registro>
+	</usuarios>
